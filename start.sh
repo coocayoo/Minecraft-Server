@@ -19,6 +19,6 @@ sleep 1
 echo "Starting in 1 seconds..."
 sleep 1
 
-java -Xms800M -Xmx1024M Paper-1.14.2-b85.jar --log-strip-color
+java -Xms800M -Xmx1024M Paper-1.14-b17.jar --log-strip-color
 
 done
