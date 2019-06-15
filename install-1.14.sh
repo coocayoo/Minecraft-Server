@@ -12,7 +12,7 @@ sudo apt-get install screen -y
 cd /home/pi
 mkdir minecraft-1.14
 cd minecraft-1.14
-wget https://github.com/coocayoo/Minecraft-Server/blob/master/start-1.14.sh
+wget https://raw.githubusercontent.com/coocayoo/Minecraft-Server/master/start-1.14.sh
 sudo chmod +x start-1.14.sh 
 echo "eula=true" > eula.txt
 
