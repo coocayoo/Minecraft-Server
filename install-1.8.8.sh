@@ -12,8 +12,8 @@ sudo apt-get install screen -y
 cd /home/pi
 wget https://github.com/coocayoo/Minecraft-Server/blob/master/start-1.8.8.sh
 sudo chmod +x start-1.8.8.sh 
-mkdir minecraft
-cd minecraft
+mkdir minecraft-1.8.8
+cd minecraft-1.8.8
 echo "eula=true" > eula.txt
 
 
